@@ -36,6 +36,8 @@ Durante o registro, o usuário seleciona um dos três perfis: Admin, Gestor, ou 
 
 **A seguir, conheça as principais funções e como elas atuam no fluxo do sistema.**
 
+#
+
 #### **Controladores:**
 - **AuthController.php** (Autenticação)
     - O AuthController gerencia o processo de autenticação dos usuários, permitindo login e registro. Ele faz uso do modelo User para interagir com o banco de dados.
@@ -55,6 +57,8 @@ Durante o registro, o usuário seleciona um dos três perfis: Admin, Gestor, ou 
             A senha é criptografada usando password_hash() para garantir a segurança.
             Utiliza o método create() do modelo User para inserir o novo usuário na base de dados.
             Redireciona o usuário de volta à página inicial após o registro bem-sucedido.
+
+#
 
 #### **Modelos:**
 - **User.php** (Modelo de Usuário)
@@ -78,11 +82,15 @@ Durante o registro, o usuário seleciona um dos três perfis: Admin, Gestor, ou 
             - Cria uma conexão com o banco de dados utilizando o PDO (PHP Data Objects) se ainda não existir uma instância.
             Define o modo de erro como exceções para facilitar o tratamento de erros durante o desenvolvimento.
 
+#
+
 #### **Rotas:**
 
 - **routes.php**
     - Este arquivo contém a lógica para gerenciar as rotas do sistema, decidindo quais ações devem ser executadas dependendo da URL acessada. O código principal faz uso de uma variável action que determina qual método deve ser chamado, sendo o login o padrão.
 
+
+#
 
 ### Arquitetura de pasta do projeto:
 
