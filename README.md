@@ -50,4 +50,12 @@ C:.
 
 ```
 
+#
+
+### Repositório:
+
+**Visitas:**
+![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vitorgabrieldevk/Account_Management_System&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
