@@ -54,8 +54,30 @@ C:.
 
 ### Repositório:
 
-**Visitas:**
 ![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vitorgabrieldevk/Account_Management_System&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)
+
+**Stakeholders:**
+
+<img width=20% src="https://img.shields.io/badge/Criador-Leonardo_Rocha-blue"/>
+
+<img width=20% src="https://img.shields.io/badge/Adaptação-Vitor_Gabriel-blue"/>
+
+#
+
+**Linguagem mais usada:**
+
+<img width=10% src="https://img.shields.io/github/languages/top/vitorgabrieldevk/Account_Management_System"/>
+
+#
+
+**Quantidade de linguagens utilizadas:**
+
+<img width=10% src="https://img.shields.io/github/languages/count/vitorgabrieldevk/Account_Management_System"/>
+
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
