@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=header"/>
+
 # Sistema de Cadastro de Usuários
 
 **Descrição Geral do Projeto:**
@@ -47,3 +49,5 @@ C:.
         register.php             # Interface da tela de registro
 
 ```
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
