@@ -34,7 +34,7 @@ Durante o registro, o usuário seleciona um dos três perfis: Admin, Gestor, ou 
 
 #
 
-**A seguir, detalharemos as principais funções e como elas atuam no fluxo do sistema.**
+**A seguir, conheça as principais funções e como elas atuam no fluxo do sistema.**
 
 #### **Controladores:**
 - **AuthController.php** (Autenticação)
