@@ -7,7 +7,7 @@
     $UserController = new UserController();
     // $DashBoardController = new DashBoardController();
 
-    $action = $_GET['action'] ?? 'loginUser';
+    $action = $_GET['action'] ?? 'LoginView';
 
     switch($action) {
         case 'LoginView':
